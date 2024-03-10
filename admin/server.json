@@ -1,0 +1,121 @@
+{
+  "carousel": [
+    {
+      "id": 1,
+      "url": "https://source.unsplash.com/random/1920x720/",
+      "urlMobile": "https://source.unsplash.com/random/"
+    },
+    {
+      "id": 2,
+      "url": "https://source.unsplash.com/random/1920x720/",
+      "urlMobile": "https://source.unsplash.com/random/"
+    },
+    {
+      "id": 3,
+      "url": "https://source.unsplash.com/random/1920x720/",
+      "urlMobile": "https://source.unsplash.com/random/"
+    }
+  ],
+  "sweepktakes": [
+    {
+      "id": 1,
+      "title": "Carro",
+      "description": "produtos importado!",
+      "imageUrl": "https://source.unsplash.com/random/",
+      "price": 0.99
+    },
+    {
+      "id": 2,
+      "title": "Moto",
+      "description": "produtos importado!",
+      "imageUrl": "https://source.unsplash.com/random/",
+      "price": 0.99
+    },
+    {
+      "id": 3,
+      "title": "Caminhão",
+      "description": "produtos importado!",
+      "imageUrl": "https://source.unsplash.com/random/",
+      "price": 0.99
+    },
+    {
+      "id": 4,
+      "title": "Avião",
+      "description": "produtos importado!",
+      "imageUrl": "https://source.unsplash.com/random/",
+      "price": 0.99
+    },
+    {
+      "id": 5,
+      "title": "Moto",
+      "description": "produtos importado!",
+      "imageUrl": "https://source.unsplash.com/random/",
+      "price": 0.99
+    },
+    {
+      "id": 6,
+      "title": "Moto",
+      "description": "produtos importado!",
+      "imageUrl": "https://source.unsplash.com/random/",
+      "price": 0.99
+    }
+  ],
+  "winners": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "description": "Win: $200 Amazon Gift Card",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?woman",
+      "cota": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "description": "Earn: $150 Amazon Gift Card",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?man",
+      "cota": "654321"
+    },
+    {
+      "id": 3,
+      "name": "Emily Brown",
+      "description": "Prize: $300 Amazon Voucher",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?woman",
+      "cota": "987654"
+    },
+    {
+      "id": 4,
+      "name": "Michael Davis",
+      "description": "Reward: $250 Amazon Gift Card",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?man",
+      "cota": "456789"
+    },
+    {
+      "id": 5,
+      "name": "Sophia Wilson",
+      "description": "Get: $400 Amazon Gift Card",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?woman",
+      "cota": "789012"
+    },
+    {
+      "id": 6,
+      "name": "James Anderson",
+      "description": "Claim: $350 Amazon Gift Card",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?man",
+      "cota": "345678"
+    },
+    {
+      "id": 7,
+      "name": "Olivia Martinez",
+      "description": "Prize: $500 Amazon Voucher",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?woman",
+      "cota": "210987"
+    },
+    {
+      "id": 8,
+      "name": "William Taylor",
+      "description": "Receive: $450 Amazon Gift Card",
+      "avatarUrl": "https://source.unsplash.com/random/300x300/?man",
+      "cota": "543210"
+    }
+  ]
+}
